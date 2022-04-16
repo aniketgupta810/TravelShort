@@ -7,7 +7,7 @@ onload = function () {
     const solve = document.getElementById('solve');
     const temptext = document.getElementById('temptext');
     const temptext2 = document.getElementById('temptext2');
-    const cities = ['Delhi', 'Mumbai', 'Gujarat', 'Ladakh', 'Kanpur', 'Jammu', 'Rajasthan', 'Bangalore', 'Varanasi', 'Kedarnath'];
+    const cities = ['Delhi', 'Dhanbad', 'Kolkata', 'Mysore', 'Ranchi', 'Patna', 'Puri', 'Bangalore', 'Varanasi', 'Indore'];
 
     // initializing graph options
     // vis.js alag se dekhna ho to dekh lena
